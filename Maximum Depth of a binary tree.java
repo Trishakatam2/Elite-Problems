@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    int count;
     int height(TreeNode node){
         if (node == null){
             return 0;
